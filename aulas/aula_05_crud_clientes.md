@@ -186,7 +186,7 @@ def buscar_cliente(id: int):
 ```
 
 **Teste:**
-- Acesse `http://127.0.0.1:8000/clientes/1` — deve retornar a Ana Silva
+- Acesse `http://127.0.0.1:8000/cliente/1` — deve retornar a Ana Silva
 - Acesse `http://127.0.0.1:8000/clientes/99` — deve retornar o erro
 
 ---
